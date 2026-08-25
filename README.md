@@ -1,6 +1,6 @@
 # PROGRAMAÇÃO ORIENTADA A OBJETOS
 
-**Aluno:** Douglas Victor Wenzel  
+**Aluno:** Douglas Wenzel  
 **Disciplina:** Programação Orientada a Objetos (POO) - cursada de forma isolada  
 **Curso Regular:** Desenvolvimento de Software Multiplataforma - 6º Semestre  
 **Instituição:** FATEC Votorantim  
