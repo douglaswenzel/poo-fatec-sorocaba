@@ -27,4 +27,16 @@ public abstract class Funcionario {
        return(calcSalBruto() - calcDesconto());
    }
    
+   public int getRegistro() {
+       return(this.registro);
+   }
+   
+   public String getNome() {
+       return(this.nome);
+   }
+   
+   public String getDtAdmissao() {
+       return(this.dtAdmissao);
+   }
+   
 }
